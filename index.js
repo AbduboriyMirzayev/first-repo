@@ -1,3 +1,3 @@
 setTimeout(() => {
-  location.search;
+  console.log("test this code");
 }, 5000);
